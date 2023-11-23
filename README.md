@@ -1,2 +1,3 @@
-# bloc
+# blog
+
 practica 2
